@@ -1,5 +1,11 @@
 # 🎙️ HexVoice-AI
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Repo Size](https://img.shields.io/github/repo-size/Ronit049/fibonacci-series-generator-hex_softwarers)
+![Stars](https://img.shields.io/github/stars/Ronit049/fibonacci-series-generator-hex_softwarers?style=social)
+![Forks](https://img.shields.io/github/forks/Ronit049/fibonacci-series-generator-hex_softwarers?style=social)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 A smart and customizable **Voice Assistant built using Python** that can perform tasks like opening applications, searching the web, telling time, and more — all using your voice!
 
 ---
