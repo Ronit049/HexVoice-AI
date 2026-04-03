@@ -1,5 +1,11 @@
 # 🎙️ HexVoice-AI
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Repo Size](https://img.shields.io/github/repo-size/Ronit049/fibonacci-series-generator-hex_softwarers)
+![Stars](https://img.shields.io/github/stars/Ronit049/fibonacci-series-generator-hex_softwarers?style=social)
+![Forks](https://img.shields.io/github/forks/Ronit049/fibonacci-series-generator-hex_softwarers?style=social)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 A smart and customizable **Voice Assistant built using Python** that can perform tasks like opening applications, searching the web, telling time, and more — all using your voice!
 
 ---
@@ -29,7 +35,7 @@ A smart and customizable **Voice Assistant built using Python** that can perform
 
 ## 📸 Demo Screenshot
 
-![Project Screenshot](assets/screenshot.png)
+![Project Screenshot](Hex-voice-SS.png.png)
 
 ---
 
@@ -38,7 +44,7 @@ A smart and customizable **Voice Assistant built using Python** that can perform
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/HexVoice-AI.git
+git clone https://github.com/Ronit049/HexVoice-AI.git
 ```
 
 ### 2️⃣ Navigate to Project Folder
