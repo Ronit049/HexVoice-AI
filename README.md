@@ -29,7 +29,7 @@ A smart and customizable **Voice Assistant built using Python** that can perform
 
 ## 📸 Demo Screenshot
 
-![Project Screenshot](assets/screenshot.png)
+![Project Screenshot](Hex-voice-SS.png.png)
 
 ---
 
@@ -38,7 +38,7 @@ A smart and customizable **Voice Assistant built using Python** that can perform
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/HexVoice-AI.git
+git clone https://github.com/Ronit049/HexVoice-AI.git
 ```
 
 ### 2️⃣ Navigate to Project Folder
